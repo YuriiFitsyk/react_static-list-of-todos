@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss","Todo.scss"],"names":[],"mappings":"AAAA,iBACE,iBAAkB,CCAlB,aACE,WAAY,CACb,WAGC,SAAU","file":"main.fc25801c.chunk.css","sourcesContent":[".todo__user-name {\n  font-style: italic;\n}\n",".todo {\n  &--green {\n    color: green;\n  }\n\n  &--red {\n    color: red;\n  }\n}\n"]}
